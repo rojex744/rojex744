@@ -8,4 +8,4 @@
 rojex744/rojex744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am not hacker but friends hart's can now hacking for aal device 
+I am not hacker but friends hart's can now hacking for all device 
